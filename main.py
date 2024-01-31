@@ -1,5 +1,5 @@
 name = input("Name?:")
-status = "Nigger"
+status = "CoolBro"
 
 if name == "Alnur":
 	print(name, status)
